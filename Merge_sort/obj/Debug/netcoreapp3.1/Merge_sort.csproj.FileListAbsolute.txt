@@ -1,0 +1,13 @@
+C:\Users\Иван\source\repos\Merge_sort\Merge_sort\bin\Debug\netcoreapp3.1\Merge_sort.exe
+C:\Users\Иван\source\repos\Merge_sort\Merge_sort\bin\Debug\netcoreapp3.1\Merge_sort.deps.json
+C:\Users\Иван\source\repos\Merge_sort\Merge_sort\bin\Debug\netcoreapp3.1\Merge_sort.runtimeconfig.json
+C:\Users\Иван\source\repos\Merge_sort\Merge_sort\bin\Debug\netcoreapp3.1\Merge_sort.runtimeconfig.dev.json
+C:\Users\Иван\source\repos\Merge_sort\Merge_sort\bin\Debug\netcoreapp3.1\Merge_sort.dll
+C:\Users\Иван\source\repos\Merge_sort\Merge_sort\bin\Debug\netcoreapp3.1\Merge_sort.pdb
+C:\Users\Иван\source\repos\Merge_sort\Merge_sort\obj\Debug\netcoreapp3.1\Merge_sort.csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\Merge_sort\Merge_sort\obj\Debug\netcoreapp3.1\Merge_sort.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Merge_sort\Merge_sort\obj\Debug\netcoreapp3.1\Merge_sort.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\Merge_sort\Merge_sort\obj\Debug\netcoreapp3.1\Merge_sort.AssemblyInfo.cs
+C:\Users\Иван\source\repos\Merge_sort\Merge_sort\obj\Debug\netcoreapp3.1\Merge_sort.dll
+C:\Users\Иван\source\repos\Merge_sort\Merge_sort\obj\Debug\netcoreapp3.1\Merge_sort.pdb
+C:\Users\Иван\source\repos\Merge_sort\Merge_sort\obj\Debug\netcoreapp3.1\Merge_sort.genruntimeconfig.cache
